@@ -23,8 +23,10 @@ I've created this project while learnging  **React** And if you like this projec
 #### C. User Profile Management
 #### D. Responsive Design for Multi-device Support
 
-#  The Command to run this app is: cd Popx
-## Then: npm start
+## 1. Run the following command to install required packages: npm install react-router-dom
+## 2. This will install all missing dependencies: npm install
+## 3. The Command to run this app is: cd Popx
+## 4. Then: npm start
 
 Fast and simple app made using ```React```.
 
